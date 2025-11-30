@@ -2,9 +2,9 @@
 
 ---
 
-### **NAME:Harish M**  
+### **NAME:MOAHMED FAROOKI S**  
 ### **DEPARTMENT:CSE-IOT**  
-### **ROLL NO:212224110021**  
+### **ROLL NO:21222311029**  
 ### **DATE OF EXPERIMENT:**  
 
 ---
